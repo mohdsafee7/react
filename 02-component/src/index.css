@@ -1,0 +1,24 @@
+/* css boiler plate */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.card {
+  background-color: #ab0a35;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: aqua;
+  padding: 10px;
+  text-align: center; 
+  margin: 20px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
