@@ -1,8 +1,8 @@
-function Card(){
+const Card = () => {
 
   return (
     <div>
-      <h1>Sadiya</h1>
+      <h1>Safi</h1>
         <p>Hello myself Sofik , i am the one who was involved in the.</p>
     </div>
   )
