@@ -1,0 +1,34 @@
+/* Simple reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Helvetica neue';
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #000000;
+  color: #ffffff;
+}
+
+/* Example container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.nav {
+  display: flex;
+  background-color: lightgreen;
+  justify-content: space-between;
+  padding: 20px 20px;
+  align-items: center;
+}
+
+.nav2 {
+  display: flex;
+  gap: 30px;
+}
